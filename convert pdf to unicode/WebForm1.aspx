@@ -10,9 +10,11 @@
     <form id="form1" runat="server">
         <div>
             <asp:FileUpload ID="fileUpload" runat="server" />
+            <br />
             <asp:Button ID="btnUpload" runat="server" Text="Upload PDF" OnClick="btnUpload_Click" />
             <br />
             <asp:HyperLink ID="downloadLink" runat="server" Text="Download Unicode PDF" Visible="false" />
+            <br />
             <asp:Label ID="lblError" runat="server" ForeColor="Red" Visible="false" />
         </div>
     </form>

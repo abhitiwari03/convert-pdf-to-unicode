@@ -133,6 +133,7 @@
     <Content Include="WebForm1.aspx" />
     <Content Include="fonts\new_athena_unicode.ttf" />
     <Content Include="NewFolder1\new_athena_unicode.ttf" />
+    <Content Include="fonts\KrutiBold.TTF" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
